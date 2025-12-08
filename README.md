@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey there</h2>
+<h2 align="center">👋 Hey there!</h2>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=jomiferse&color=blueviolet"/>
@@ -6,7 +6,7 @@
 
 <hr/>
 
-<img align='right' src='https://octodex.github.com/images/codertocat.png' width='25%'>
+<img align='right' src='https://octodex.github.com/images/mcefeeline.jpg' width='25%'>
 
 {
 
