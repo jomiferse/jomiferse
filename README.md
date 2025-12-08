@@ -6,7 +6,7 @@
 
 <hr/>
 
-<img align='right' src='https://octodex.github.com/images/mcefeeline.jpg' width='25%'>
+<img align='right' src='https://octodex.github.com/images/red-polo.png' width='25%'>
 
 {
 
@@ -26,9 +26,9 @@
 <h2 align="center">☕ Statistics</h2>
 
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=jomiferse&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomiferse&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jomiferse&theme=material-palenight&hide_border=true&background=FFFFFF00">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jomiferse&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomiferse&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&cache_seconds=86400" />
+  <img height="170" src="https://streak-stats.demolab.com?user=jomiferse&theme=material-palenight&hide_border=true&background=FFFFFF00&cache_seconds=86400" />
 </p>
 
 <p align="center">
