@@ -35,8 +35,6 @@
 <!--<h2 align="center">🚀 Projects</h2>
 <p align="center">Here are some of the projects I've contributed to or built myself.</p>-->
 
-<br/>
-
 <h2 align="center">🌱 My Skills</h2>
 
 <h4 align="center">💻 Programming Languages</h4>
