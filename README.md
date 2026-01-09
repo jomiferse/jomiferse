@@ -26,9 +26,7 @@
 <h2 align="center">☕ GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jomiferse&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jomiferse&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jomiferse&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/jomiferse/jomiferse/main/github-metrics.svg" />
 </p>
 
 <br/>
