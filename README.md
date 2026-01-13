@@ -40,6 +40,7 @@
 <p align="center">
   <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
@@ -50,9 +51,20 @@
 <p align="center">
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=springboot&logoColor=white">
   <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F.svg?logo=springsecurity&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white">
   <img alt="Microservices" src="https://img.shields.io/badge/Microservices-5A67D8.svg?logo=apache&logoColor=white">
   <img alt="REST API" src="https://img.shields.io/badge/REST_API-02569B.svg?logo=api&logoColor=white">
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=rabbitmq&logoColor=white">
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20.svg?logo=apachekafka&logoColor=white">
   <img alt="Liquibase" src="https://img.shields.io/badge/Liquibase-2962FF.svg?logo=liquibase&logoColor=white">
+</p>
+
+<h4 align="center">Frontend & UI</h4>
+
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white">
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01.svg?logo=astro&logoColor=white">
 </p>
 
 <h4 align="center">🗄 Databases & Data</h4>
@@ -60,6 +72,7 @@
 <p align="center">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white">
   <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571.svg?logo=elasticsearch&logoColor=white">
 </p>
 
@@ -83,6 +96,9 @@
 
 <p align="center">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121.svg?logo=gitlab&logoColor=white">
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white">
   <img alt="Agile" src="https://img.shields.io/badge/Agile-0052CC.svg?logo=jira&logoColor=white">
 </p>
 
