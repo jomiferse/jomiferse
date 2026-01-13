@@ -52,6 +52,7 @@
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=springboot&logoColor=white">
   <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F.svg?logo=springsecurity&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white">
+  <img alt="Alembic" src="https://img.shields.io/badge/Alembic-333333.svg">
   <img alt="Microservices" src="https://img.shields.io/badge/Microservices-5A67D8.svg?logo=apache&logoColor=white">
   <img alt="REST API" src="https://img.shields.io/badge/REST_API-02569B.svg?logo=api&logoColor=white">
   <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=rabbitmq&logoColor=white">
